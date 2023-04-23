@@ -19,7 +19,7 @@ m = folium.Map()
 
 dinuka = folium.features.CustomIcon('immgs/dinuka.jpg', icon_size=(25,25))
 chamlka = folium.features.CustomIcon('immgs/chamlka.jpg', icon_size=(25,25))
-dulan = folium.features.CustomIcon('immgs/Dulan.jpg', icon_size=(25,25))
+dulan = folium.features.CustomIcon('immgs/dulan.jpg', icon_size=(25,25))
 indnil = folium.features.CustomIcon('immgs/indunil.jpg', icon_size=(25,25))
 pramuk = folium.features.CustomIcon('immgs/pramuk.jpg', icon_size=(25,25))
 acowshan = folium.features.CustomIcon('immgs/acowshan.jpg', icon_size=(25,25))
