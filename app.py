@@ -24,7 +24,6 @@ indnil = folium.features.CustomIcon('immgs/indunil.jpg', icon_size=(25,25))
 pramuk = folium.features.CustomIcon('immgs/pramuk.jpg', icon_size=(25,25))
 acowshan = folium.features.CustomIcon('immgs/acowshan.jpg', icon_size=(25,25))
 
-
 folium.Marker(
     user_loc['Dinuka'], popup="<i>Dinuka</i>", tooltip=tooltip[0],icon=dinuka
 ).add_to(m)
